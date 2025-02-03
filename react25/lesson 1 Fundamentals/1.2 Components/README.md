@@ -1,0 +1,1 @@
+A component can be as small as button or can be big as a whole page. component is one of the rich feature of react, it allows the developer to create reusable block of code. and it is great way to deal with Separation of concern (SOC)
