@@ -22,5 +22,11 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src"]
+  "include": [
+    "src",
+    "lesson 1 Fundamentals/1.3 Dynamic Content/Greetings.tsx",
+    "lesson 1 Fundamentals/1.3 Dynamic Content/ProductInfo.tsx",
+    "lesson 1 Fundamentals/1.4 List/ProductList.tsx",
+    "lesson 1 Fundamentals/1.4 List/UserList.tsx"
+  ]
 }
